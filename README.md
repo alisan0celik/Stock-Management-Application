@@ -54,6 +54,9 @@ The interface is designed for Turkish use.
 
 ![screenshot4](https://github.com/alisan0celik/Stock-Management-Application/blob/main/Screenshots/14.png)
 
+## Author
+This application created by Alişan Çelik
+
 
 
 
