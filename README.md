@@ -47,7 +47,9 @@ The interface is designed for Turkish use.
 
 ## Screenshots
 [screenshot1](https://github.com/alisan0celik/Stock-Management-Application/blob/main/Screenshots/11.png)
-[screenshot2]()
+
+[screenshot2](https://github.com/alisan0celik/Stock-Management-Application/blob/main/Screenshots/12.png)
+
 [screenshot3]()
 [screenshot4]()
 
