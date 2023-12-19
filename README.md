@@ -46,12 +46,13 @@ Explore the user interface to view stock information and tables.
 The interface is designed for Turkish use.
 
 ## Screenshots
-[screenshot1](https://github.com/alisan0celik/Stock-Management-Application/blob/main/Screenshots/11.png)
+![screenshot1](https://github.com/alisan0celik/Stock-Management-Application/blob/main/Screenshots/11.png)
 
-[screenshot2](https://github.com/alisan0celik/Stock-Management-Application/blob/main/Screenshots/12.png)
+![screenshot2](https://github.com/alisan0celik/Stock-Management-Application/blob/main/Screenshots/12.png)
 
-[screenshot3]()
-[screenshot4]()
+![screenshot3](https://github.com/alisan0celik/Stock-Management-Application/blob/main/Screenshots/13.png)
+
+![screenshot4](https://github.com/alisan0celik/Stock-Management-Application/blob/main/Screenshots/14.png)
 
 
 
